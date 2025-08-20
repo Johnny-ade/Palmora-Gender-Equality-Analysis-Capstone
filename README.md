@@ -16,3 +16,4 @@ The primary source of Data used here is Pamora Gender Equality analysis.csv and 
 - *Microsoft power Bi for creating report with a better visualization*
 
 ### Explanatory Data Analysis
+EDA involved the exploring of Data to answer some questions about the data...
