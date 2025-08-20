@@ -122,3 +122,6 @@ I did a conditional column and give a new gender to those ones that didn't revea
 
 Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)
 - Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'
+
+### Results
+As shown in the above uploaded file. Includdes a clear Dashboard Visualization and Cocnclusion.
