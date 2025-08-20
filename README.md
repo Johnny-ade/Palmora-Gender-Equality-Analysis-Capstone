@@ -9,5 +9,9 @@ This project aims to generate insight into the gender equality analysis of Palmo
 The primary source of Data used here is Pamora Gender Equality analysis.csv and this is provided by Capstone.
 
 ### Tools Used
-Microsoft Power Bi Desktop for Data Cleaning* [Download Here](https://www.Microsoft.com)
+  *Microsoft Power Bi Desktop for Data Cleaning and Visualization* [Download Here](https://www.Microsoft.com)
+  - For Manipulation
+    - For Munchin 
+- *Microsoft Power Bi for Querryind and Analysis*
+- *Microsoft power Bi for creating report with a better visualization*
 
