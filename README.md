@@ -96,3 +96,29 @@ Measures
 - Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)
 - Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'
 
+Clearing the product name by using Left function
+-Create a new column beside the product name
+-On the new column write your formula 
+-Using Left function( Select the cell range,  number character (35))
+-Create another column to clean your data by using Proper function 
+-Create another new column 
+-And copy from the Proper function column and left click on the new column, then click on special paste
+-Edit by clicking on the value 
+-Then you can delete the previous Product Name Column 
+-You can then proceed to pivot table
+
+ ## After a clear Analysis, A request came to add and determine a new result within the Data using a new set of Data shared by the company.
+
+Create a new column beside your product name column, then write your LEFT function in the  new column 
+Create another new column beside the LEFT function column 
+Then alight LEFT function column, copy and paste into the new column using (Special paste)
+
+Add custom Column .. New column "Gender _Final"  
+
+= Gender_Final" =
+If Is Null([Gender]) or [Gender] = "", "Undisclosed", [Gender]
+
+I did a conditional column and give a new gender to those ones that didn't reveal their gender
+
+Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)
+- Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'
